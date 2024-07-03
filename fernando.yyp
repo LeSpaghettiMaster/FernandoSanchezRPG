@@ -42,7 +42,6 @@
     {"id":{"name":"rpg_tilemap","path":"scripts/rpg_tilemap/rpg_tilemap.yy",},},
     {"id":{"name":"rpg_tileset","path":"scripts/rpg_tileset/rpg_tileset.yy",},},
     {"id":{"name":"utility","path":"scripts/utility/utility.yy",},},
-    {"id":{"name":"dies","path":"sounds/dies/dies.yy",},},
     {"id":{"name":"spr_tileset_blank","path":"sprites/spr_tileset_blank/spr_tileset_blank.yy",},},
     {"id":{"name":"spr_tileset_lines","path":"sprites/spr_tileset_lines/spr_tileset_lines.yy",},},
     {"id":{"name":"spr_tileset_towns1_l1","path":"sprites/spr_tileset_towns1_l1/spr_tileset_towns1_l1.yy",},},
