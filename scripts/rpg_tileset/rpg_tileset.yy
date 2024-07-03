@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"rpg_tileset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rpg_tileset",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
