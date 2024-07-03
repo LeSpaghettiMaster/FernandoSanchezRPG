@@ -130,8 +130,8 @@ function vertex_build_quad3D(_buffer, _x, _y, _z, _width, _height, _color, _alph
 	vertex_build_point3D(_buffer, _x, _y + _height, _z, _color, _alpha, _u, _v + _q);
 }
 
-#macro CAM_X 0
-#macro CAM_Y 0
+#macro CAM_X obj_camera.cam_x
+#macro CAM_Y obj_camera.cam_y
 
 #macro CAM_W 256
 #macro CAM_H 224
